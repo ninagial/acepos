@@ -8,6 +8,13 @@ Companion package to the study "LLM-Enhanced Sub-Ontology Development for Improv
 - Convert the results to a graph
 - Calculate descriptive and graph statistics on the results
 
+## Interactive Plot
+
+[!View Interactive Plot](https://ninagial.github.io/acepos.github.io/plot.html)
+
+Using the interactive plot, the user can visualize the hierarchical depth and degree of Wikidata codes under which scientific techiques are classed. 
+The size of the data points maps the nodes' (ie Wikidata terms') degree, in the resulting graph.
+
 # Use case: Optimal Wikidata Code for a seed word
 
 
