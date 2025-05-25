@@ -6,7 +6,7 @@ Authors@R:
            comment = c(ORCID = "https://orcid.org/0000-0001-9523-9468"))
     person("Maria Ioanna", "Maratsi", , "ioanna.m@aegean.gr", role = c("aut"),
            comment = c(ORCID = "https://orcid.org/0000-0003-4513-6318"))
-    person("Charalambos", "Alexopoulos", , "alexop@aegean.gr", role = c("ctb"),
+    person("Charalambos", "Alexopoulos", , "alexop@aegean.gr", role = c("ths", "ctb"),
            comment = c(ORCID = "https://orcid.org/0000-0002-6610-0675"))
     person("Yiannis", "Charalabidis", , "yiannisx@aegean.gr", role = c("ths"),
            comment = c(ORCID = "https://orcid.org/0000-0003-3760-5495"))
