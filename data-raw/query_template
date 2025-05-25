@@ -1,0 +1,18 @@
+SELECT ?ancestor10 ?ancestor9 ?ancestor8 ?ancestor7 ?ancestor6 ?ancestor5 ?ancestor4 ?ancestor3 ?ancestor2 ?ancestor ?parent ?ancestor10Label ?ancestor9Label ?ancestor8Label ?ancestor7Label ?ancestor6Label ?ancestor5Label ?ancestor4Label ?ancestor3Label ?ancestor2Label ?ancestorLabel ?parentLabel
+WHERE 
+{
+    wd:%s wdt:P279 ?parent . 
+    ?parent wdt:P279 ?ancestor .
+    ?ancestor wdt:P279 ?ancestor2 .
+    ?ancestor2 wdt:P279 ?ancestor3 .
+    ?ancestor3 wdt:P279 ?ancestor4 .
+    ?ancestor4 wdt:P279 ?ancestor5 .
+    ?ancestor5 wdt:P279 ?ancestor6 .
+      ?ancestor6 wdt:P279 ?ancestor7 .  
+  ?ancestor7 wdt:P279 ?ancestor8 .
+    ?ancestor8 wdt:P279 ?ancestor9 .
+    ?ancestor9 wdt:P279 ?ancestor10 .
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
+}
+LIMIT 300

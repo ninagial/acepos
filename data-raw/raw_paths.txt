@@ -1,0 +1,41 @@
+Psychology
+method/test/experiment/psychological experiment
+method/procedure/medical procedure/medical test/psychological test
+method/scholarly method/analysis/methodology /psychological methodology
+method/procedure /medical procedure/medical treatment/psychotherapy/behavior/therapy/cognitive behavioral therapy
+biological phenomenon/biological process/psychological process/mental process/emotional process
+science/natural science/life sciences/health sciences/psychology/experimental psychology
+Neuroscience
+method/procedure /medical procedure/medical diagnosis/radiology/roentgenology /neuroimaging 
+method/procedure /medical procedure/medical diagnosis/
+method/technique/visualization/biological imaging
+method/technique/optogenetics 
+method/technique/molecular dynamics simulation
+method/scholarly method/analysis /data analysis/behavior analysis
+method/technique/visualization /biomedical imaging
+entity/observable entity/phenomenon/natural phenomenon/biological phenomenon/neural coding
+science/natural science/biology/computational biology
+science/natural science/biology/physiology /electrophysiology  
+science/natural science/biology/histology
+science/natural science/life sciences/health sciences/pharmacology
+none/Neural modeling fields
+none/chemogenetics
+Cultural Heritage
+method/scholarly method/analysis/methodology/field research/archaeological excavation
+method/test/materials testing/characterization
+method/quality control method/monitoring and evaluation/monitoring/environmental monitoring/ecological assessment
+method/scholarly method/scientific method/dating method/chronological dating/dating method in archaeology
+method/scholarly method/analysis/environmental analysis
+method/technique/ artistic technique/storytelling/digital storytelling
+method/historical method
+method/scholarly method/analysis/microscopy 
+science/natural science/materials science/characterization 
+science/applied science/conservation science
+entity/converter/means/conservation technique
+class/series/process/research/Archival research
+class/series/activity/process/activity/use/modeling and simulation/scientific modeling/3D modeling
+class/series/process/activity/preservation/conservation 
+class/series/process/activity/preservation/conservation/collections care
+Wikimedia category/Category:Dating methodologies in archaeology
+none/Imaging of cultural heritage
+none/Direct historical approach
