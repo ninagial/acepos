@@ -156,3 +156,6 @@ with(minipaper_replication, {
 })
 
 ```
+
+## Note:
+This study was conducted in partial completion of Ms. Maratsi's grant "Towards a sustainable Open Data ECOsystem (ODECO)", Grant Agreement Number: 955569. An early prototype of this work was in completion of an "ODECO Secondments" agreement, between the University of the Aegean, and the Greek Free Open Source Software (https://mathe.ellak.gr).
